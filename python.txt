@@ -7,3 +7,9 @@ loops
 conitional statement 
 
 data structures and algorithms
+
+stacks
+
+queues
+
+Linked List
