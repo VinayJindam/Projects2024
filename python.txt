@@ -1,0 +1,9 @@
+Welcome to Python Language
+
+Data types
+
+loops
+
+conitional statement 
+
+data structures and algorithms
