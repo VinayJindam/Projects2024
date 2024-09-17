@@ -12,8 +12,16 @@ stacks
 
 queues
 
+java scipt
+
+html
+
+css
+
 Linked List
 
 Thank You
 
 Done my changes
+
+
